@@ -5,7 +5,7 @@
 - As freelance developer I completed more than 60 tasks on Upwork (some big and small/fixed budget and hourly both)
 - As freelance developer I completed almost 4 projects on freelancer.com
 
-I have passion to architect software products and services, I analyze ideas, products and then think about their ERDs, design databases, think, design and develop solution components and services using .net core as back end technology and Razor/Blazor/React as front end technologies
+I have passion to architect software products and services, I analyze ideas, products and then think about their ERDs, design databases, design and develop solution components and services using .net core as back end technology and Razor/Blazor/React as front end technologies.
 
 I extensively used Jquery, Jquery UI, HTML, CSS, Bootstrap, Javascript and many other Javascript libraries in my projects. I used Blazor WASM in one of my project and I developed its front end using Blazor WASM and C#. Recently I used MAUI to develop front end of a mobile app.
 
